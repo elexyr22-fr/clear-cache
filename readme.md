@@ -1,4 +1,4 @@
-# Comment installer nouvelle Node 
+# Comment supprimé le cache Pterodatyl :
 
 1) Liste des serveur Docker:
 
