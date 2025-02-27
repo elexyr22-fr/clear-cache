@@ -25,4 +25,4 @@ docker system prune -af --volumes
 df -h
 ```
 
-![Im 1](https://i.imgur.com/ID9mwi5.png)
+![Im 1](https://i.imgur.com/ID9mwi5.png) !
