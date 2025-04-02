@@ -1,4 +1,4 @@
-# Comment supprimé le cache Pterodatyl:
+# Comment supprimé le cache Pterodatyl :
 
 1) Liste des serveur Docker:
 
